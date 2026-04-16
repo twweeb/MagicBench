@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MagicBench/static/css/main.e6c13ad2.css",
+    "main.js": "/MagicBench/static/js/main.b19e28b2.js",
+    "static/js/453.b74d76b8.chunk.js": "/MagicBench/static/js/453.b74d76b8.chunk.js",
+    "index.html": "/MagicBench/index.html",
+    "main.e6c13ad2.css.map": "/MagicBench/static/css/main.e6c13ad2.css.map",
+    "main.b19e28b2.js.map": "/MagicBench/static/js/main.b19e28b2.js.map",
+    "453.b74d76b8.chunk.js.map": "/MagicBench/static/js/453.b74d76b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b19e28b2.js"
+  ]
+}
