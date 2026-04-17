@@ -1,6 +1,8 @@
-# MagicBench
+# MagicBench: A Deception-Sensitive Cognitive Benchmark for LLMs
 
-[Project Page](https://hsiung.cc/MagicBench/) | [Dataset](https://huggingface.co/datasets/hsiung/MagicBench)
+[Project Page](https://hsiung.cc/MagicBench/) | [Dataset](https://huggingface.co/datasets/hsiung/MagicBench) | [Quick Start](#quick-start) | [Citation](#citation)
+
+![MagicBench hero image](figs/magicbench-hero-github.png)
 
 MagicBench is a deception-sensitive cognitive benchmark for large language models built around magic-trick understanding. Instead of testing recall alone, it evaluates whether a model can reason about hidden causes, audience beliefs, violated expectations, and counterfactual changes in scenarios where the visible events are intentionally misleading.
 
@@ -174,6 +176,6 @@ If you find our work helpful or inspiring to your research, please cite our proj
   title={{MagicBench: A Deception-Sensitive Cognitive Benchmark for LLMs}},
   author={Hsiung, Lei},
   year={2026},
-  howpublished={\url{https://hsiung.cc/magicbench/}},
+  howpublished={\url{https://hsiung.cc/MagicBench/}},
 }
 ```
